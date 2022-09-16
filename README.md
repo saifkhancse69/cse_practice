@@ -235,12 +235,16 @@ int main()
 
 Lab Assignment:
 8. Write a C program which takes two integer values X and Y as inputs and determines which quadrant the point lies. 
+Code:
 
 9. Write a C program which takes two integer values X and Y as inputs and determines which quadrant the point lies. 
+Code:
 
 10. Generate a grade report based on the number given by the user.
+Code:
 
 11. Write a program to print odd numbers between 1 and 50 in reverse order. 
+Code:
 
 12. Generate the following pattern using nested while loops.
 1
@@ -248,16 +252,22 @@ Lab Assignment:
 4 5 6
 7 8 9 10
 11 12 13 14 15
+Code:
 
 
 13. Find out the average of the given numbers from the user. Assume that user will input -1 to terminate the number series. 
+Code:
 
 14. Print Hello World 10 times along with the serial number and skip the 7th Hello World. Your program would only print a total of 9 ‘Hello world’s along with the serial number. 
+Code:
 
 15. You will take an integer number from the user. You have to find the summation of all the digits. 
+Code:
 
 16. In this problem, you will develop a program that can find how many times an integer number can be divided by Two (2).
+Code:
 
 17. You will take several integer numbers as inputs until the user enters -1. Then calculate the difference between the Highest and Lowest number.
+Code:
 
-19. 
+18. 
